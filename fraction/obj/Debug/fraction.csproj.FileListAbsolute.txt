@@ -1,0 +1,5 @@
+C:\Users\orena\YandexDisk\Методы\fraction\fraction\bin\Debug\fraction.dll
+C:\Users\orena\YandexDisk\Методы\fraction\fraction\bin\Debug\fraction.pdb
+C:\Users\orena\YandexDisk\Методы\fraction\fraction\obj\Debug\fraction.csprojResolveAssemblyReference.cache
+C:\Users\orena\YandexDisk\Методы\fraction\fraction\obj\Debug\fraction.dll
+C:\Users\orena\YandexDisk\Методы\fraction\fraction\obj\Debug\fraction.pdb
